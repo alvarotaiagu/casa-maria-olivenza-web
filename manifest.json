@@ -1,0 +1,11 @@
+{
+  "name": "Casa María · Olivenza",
+  "short_name": "Casa María",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#F6F0EA",
+  "theme_color": "#F6F0EA",
+  "icons": [
+    { "src": "assets/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

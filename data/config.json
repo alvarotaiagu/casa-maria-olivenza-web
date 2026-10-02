@@ -1,0 +1,11 @@
+{
+  "nota": "Datos de contacto que usa el formulario. «whatsapp» va a null mientras María no confirme que el móvil tiene WhatsApp: con null, el botón sale apagado. Para encenderlo: \"whatsapp\": \"34685875949\" (prefijo y número, sin espacios ni +).",
+  "nombre": "María",
+  "telefono": "685 875 949",
+  "telefonoEnlace": "+34685875949",
+  "email": "casamaria.olivenza@gmail.com",
+  "whatsapp": null,
+  "booking": "https://www.booking.com/hotel/es/casa-maria-olivenza.es.html",
+  "instagram": "https://www.instagram.com/casamariaolivenza/",
+  "facebook": "https://www.facebook.com/p/Casa-Maria-Olivenza-100082932832183/"
+}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex, nofollow">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Página no encontrada · Casa María</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gilda+Display&family=Mulish:wght@400;600&display=swap">
+<!-- autónoma a propósito: en GitHub Pages el 404 se sirve en cualquier ruta, y una hoja relativa no cargaría -->
+<style>
+  :root { --papel: #F6F0EA; --cobre: #C6A495; --cacao: #825A50; --tinta: #2E221E; --apagado: #6B5850; }
+  * { box-sizing: border-box; }
+  body { margin: 0; min-height: 100svh; display: grid; place-content: center; justify-items: center; gap: 1.4rem; padding: 2rem 16px; background: var(--papel); color: var(--tinta); font: 400 1.05rem/1.6 'Mulish', system-ui, sans-serif; text-align: center; }
+  svg { width: min(220px, 60vw); overflow: visible; }
+  path { fill: none; stroke: var(--cobre); stroke-width: 4.33; stroke-dasharray: 1 1; stroke-dashoffset: 1; animation: trazo 1.6s cubic-bezier(.65, 0, .35, 1) .2s forwards; }
+  @keyframes trazo { to { stroke-dashoffset: 0; } }
+  @media (prefers-reduced-motion: reduce) { path { animation: none; stroke-dashoffset: 0; } }
+  h1 { margin: 0; font: 400 clamp(2.2rem, 7vw, 3.4rem)/1.08 'Gilda Display', Georgia, serif; }
+  p { margin: 0; max-width: 32ch; color: var(--apagado); }
+  a { display: inline-flex; align-items: center; min-height: 3rem; padding: .8rem 1.6rem; border-radius: 999px; background: var(--cacao); color: #fff; text-decoration: none; font-weight: 600; }
+  a:hover { background: var(--tinta); }
+  a:focus-visible { outline: 2px solid var(--cacao); outline-offset: 3px; }
+</style>
+</head>
+<body>
+  <svg viewBox="136 20 226 200" aria-hidden="true"><path pathLength="1" d="M148.6 209V96.6L183.1 71.5V32.0V71.5L248.5 24.0L349.4 98.2V209"/></svg>
+  <h1>Aquí no hay ninguna habitación.</h1>
+  <p>La página que buscáis no existe o ha cambiado de sitio. La casa sigue en el mismo sitio.</p>
+  <a href="/casa-maria-olivenza-web/">Volver a Casa María</a>
+</body>
+</html>

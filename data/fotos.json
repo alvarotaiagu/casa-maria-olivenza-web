@@ -1,0 +1,738 @@
+{
+ "nota": "Las 66 fotos de su ficha de Booking, graduadas con scripts/gradar.py. Ancho, alto y versiones los rellena scripts/fotos.mjs. Categorías de la galería completa (versión sobria): dormitorios, banos, salon, cocina, patio, rincones.",
+ "fotos": [
+  {
+   "id": "357563154",
+   "categoria": "banos",
+   "alt": "Bañera de hidromasaje redonda con velas encendidas y espuma",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "357563572",
+   "categoria": "banos",
+   "alt": "Bañera de hidromasaje con velas, copas y una botella de vino",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "357563583",
+   "categoria": "banos",
+   "alt": "Velas encendidas en el borde de la bañera de hidromasaje",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "357563257",
+   "categoria": "banos",
+   "alt": "Baño con mueble de lavabo blanco, espejo redondo y ducha con mampara",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "357563452",
+   "categoria": "banos",
+   "alt": "Baño con lavabo, bidé e inodoro, y una banqueta con cesta de bienvenida",
+   "w": 1174,
+   "h": 1080,
+   "anchos": [
+    480,
+    960,
+    1174
+   ]
+  },
+  {
+   "id": "410990757",
+   "categoria": "banos",
+   "alt": "Lavabo con una toalla bordada con el logo de Casa María y una orquídea",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "899157675",
+   "categoria": "banos",
+   "alt": "Lavabo con un jarrón de hortensias lilas",
+   "w": 608,
+   "h": 1080,
+   "anchos": [
+    480,
+    608
+   ]
+  },
+  {
+   "id": "410990634",
+   "categoria": "dormitorios",
+   "alt": "Dormitorio con cabecero tapizado, colcha roja y ventana abierta a una zona verde",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "357563328",
+   "categoria": "dormitorios",
+   "alt": "Dormitorio con cabecero tapizado, ventana abierta y flores en la mesilla",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "357563249",
+   "categoria": "dormitorios",
+   "alt": "Dormitorio con cabecero tapizado y ventana abierta a una zona verde",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "378902477",
+   "categoria": "dormitorios",
+   "alt": "Dormitorio con cabecero tapizado, cojines rojos y toallas sobre la cama",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "378905823",
+   "categoria": "dormitorios",
+   "alt": "Cama con cabecero tapizado, cojines rojos y toallas enrolladas",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "357563545",
+   "categoria": "dormitorios",
+   "alt": "Dormitorio con cabecero tapizado y colcha gris estampada",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "357563570",
+   "categoria": "dormitorios",
+   "alt": "Dormitorio con armario empotrado y colcha estampada",
+   "w": 811,
+   "h": 1080,
+   "anchos": [
+    480,
+    811
+   ]
+  },
+  {
+   "id": "357563317",
+   "categoria": "dormitorios",
+   "alt": "Cama con colcha gris estampada y toallas rojas dobladas",
+   "w": 608,
+   "h": 1080,
+   "anchos": [
+    480,
+    608
+   ]
+  },
+  {
+   "id": "357563346",
+   "categoria": "dormitorios",
+   "alt": "Dormitorio con cabecero de madera, cojines azules y dos cuadros de ciervos",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "410990395",
+   "categoria": "dormitorios",
+   "alt": "Dormitorio con cojines azules, toallas bordadas y ventana a una zona verde",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "899047312",
+   "categoria": "dormitorios",
+   "alt": "Dormitorio con cojines azules, aire acondicionado y ventana a una zona verde",
+   "w": 608,
+   "h": 1080,
+   "anchos": [
+    480,
+    608
+   ]
+  },
+  {
+   "id": "357563596",
+   "categoria": "dormitorios",
+   "alt": "Cama con cojines azules y juegos de toallas bajo los cuadros de ciervos",
+   "w": 608,
+   "h": 1080,
+   "anchos": [
+    480,
+    608
+   ]
+  },
+  {
+   "id": "548079035",
+   "categoria": "dormitorios",
+   "alt": "Dormitorio con cojín azul, escritorio y televisión",
+   "w": 608,
+   "h": 1080,
+   "anchos": [
+    480,
+    608
+   ]
+  },
+  {
+   "id": "378903370",
+   "categoria": "dormitorios",
+   "alt": "Sábana bordada con el nombre de María y toallas azules",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "357563611",
+   "categoria": "dormitorios",
+   "alt": "Dormitorio con armario de madera y una butaca blanca junto a la ventana",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "435499928",
+   "categoria": "dormitorios",
+   "alt": "Cama de matrimonio con cojines malva y toallas bordadas con el logo",
+   "w": 1600,
+   "h": 900,
+   "anchos": [
+    480,
+    960,
+    1440
+   ]
+  },
+  {
+   "id": "435500105",
+   "categoria": "dormitorios",
+   "alt": "Dormitorio amplio con cabecero de madera y ventanal con cortinas",
+   "w": 1600,
+   "h": 900,
+   "anchos": [
+    480,
+    960,
+    1440
+   ]
+  },
+  {
+   "id": "435499875",
+   "categoria": "dormitorios",
+   "alt": "Dormitorio con cabecero de madera clara y un cuadro de abanico",
+   "w": 785,
+   "h": 1080,
+   "anchos": [
+    480,
+    785
+   ]
+  },
+  {
+   "id": "899044087",
+   "categoria": "dormitorios",
+   "alt": "Dormitorio con cabecero de madera clara y suelo de madera",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "548079039",
+   "categoria": "dormitorios",
+   "alt": "Dormitorio con cabecero de madera clara, cuadro de abanico y aire acondicionado",
+   "w": 608,
+   "h": 1080,
+   "anchos": [
+    480,
+    608
+   ]
+  },
+  {
+   "id": "548079030",
+   "categoria": "dormitorios",
+   "alt": "Dormitorio con cojines oscuros, armario y televisión",
+   "w": 608,
+   "h": 1080,
+   "anchos": [
+    480,
+    608
+   ]
+  },
+  {
+   "id": "899034639",
+   "categoria": "dormitorios",
+   "alt": "Rincón de dormitorio con televisión, butaca y mesita blanca",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "410990980",
+   "categoria": "dormitorios",
+   "alt": "Cama con cojines rojos y pétalos en forma de corazón",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "410991129",
+   "categoria": "dormitorios",
+   "alt": "Cama con pétalos de rosa y toallas rojas",
+   "w": 888,
+   "h": 1080,
+   "anchos": [
+    480,
+    888
+   ]
+  },
+  {
+   "id": "899036465",
+   "categoria": "salon",
+   "alt": "Salón con sofá, dos butacas de terciopelo verde y cuadros",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "548077336",
+   "categoria": "salon",
+   "alt": "Salón con sofá, butacas verdes y mesa de centro",
+   "w": 608,
+   "h": 1080,
+   "anchos": [
+    480,
+    608
+   ]
+  },
+  {
+   "id": "548079031",
+   "categoria": "salon",
+   "alt": "Salón con sofá, butacas verdes y el comedor al fondo",
+   "w": 608,
+   "h": 1080,
+   "anchos": [
+    480,
+    608
+   ]
+  },
+  {
+   "id": "537286099",
+   "categoria": "salon",
+   "alt": "Butaca de terciopelo verde bajo un cuadro de una mujer con tocado",
+   "w": 608,
+   "h": 1080,
+   "anchos": [
+    480,
+    608
+   ]
+  },
+  {
+   "id": "899157921",
+   "categoria": "salon",
+   "alt": "Jarrón de cristal rosado con flores delante del sofá",
+   "w": 608,
+   "h": 1080,
+   "anchos": [
+    480,
+    608
+   ]
+  },
+  {
+   "id": "548079037",
+   "categoria": "salon",
+   "alt": "Comedor con mesa redonda de madera, sillas grises y espejo decorativo",
+   "w": 608,
+   "h": 1080,
+   "anchos": [
+    480,
+    608
+   ]
+  },
+  {
+   "id": "410990884",
+   "categoria": "salon",
+   "alt": "Mesa de comedor con un jarrón de flores y un espejo decorativo al fondo",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "357563512",
+   "categoria": "salon",
+   "alt": "Cuadro grande de una mujer con tocado dorado junto a una lámpara",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "357563559",
+   "categoria": "salon",
+   "alt": "Tablero de ajedrez sobre una mesa del salón",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "357563498",
+   "categoria": "salon",
+   "alt": "Jarrón de cristal con una vela y flores secas sobre un mantel de ganchillo",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "357563550",
+   "categoria": "salon",
+   "alt": "Cubilete y dados sobre un tapete verde, junto a un mueble con juegos de mesa",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "899038341",
+   "categoria": "cocina",
+   "alt": "Cocina con fregadero doble, microondas, placa y nevera",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "357563238",
+   "categoria": "cocina",
+   "alt": "Cocina alargada con armarios claros y azules y una puerta acristalada al fondo",
+   "w": 525,
+   "h": 1080,
+   "anchos": [
+    480
+   ]
+  },
+  {
+   "id": "899033085",
+   "categoria": "cocina",
+   "alt": "Rincón del café con cafetera de cápsulas, tazas, tostadora y taburetes",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "899158285",
+   "categoria": "cocina",
+   "alt": "Bandeja con tazas, cafetera de cápsulas y sobres de café e infusiones",
+   "w": 608,
+   "h": 1080,
+   "anchos": [
+    480,
+    608
+   ]
+  },
+  {
+   "id": "899032438",
+   "categoria": "patio",
+   "alt": "Patio con banco de madera, cojines azules, plantas y jardín vertical",
+   "w": 1440,
+   "h": 1080,
+   "anchos": [
+    480,
+    960,
+    1440
+   ]
+  },
+  {
+   "id": "899048920",
+   "categoria": "patio",
+   "alt": "Patio con mesa negra, sillas con cojín gris y banco al fondo",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "899035420",
+   "categoria": "patio",
+   "alt": "Patio alargado con toldo, mesa, sillas y banco",
+   "w": 1440,
+   "h": 1080,
+   "anchos": [
+    480,
+    960,
+    1440
+   ]
+  },
+  {
+   "id": "899031531",
+   "categoria": "patio",
+   "alt": "Patio con césped artificial, mesa y sillas, y jardín vertical",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "376602576",
+   "categoria": "patio",
+   "alt": "Rincón del patio con azulejo naranja, una mesa y una silla fucsias",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "378904331",
+   "categoria": "rincones",
+   "alt": "Entrada con la escalera a la planta de arriba y el salón al fondo",
+   "w": 1919,
+   "h": 1080,
+   "anchos": [
+    480,
+    960,
+    1440
+   ]
+  },
+  {
+   "id": "475998397",
+   "categoria": "rincones",
+   "alt": "Orquídeas al pie de la escalera de la entrada",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "899158561",
+   "categoria": "rincones",
+   "alt": "Rellano de la planta de arriba con una butaca y cuadros",
+   "w": 608,
+   "h": 1080,
+   "anchos": [
+    480,
+    608
+   ]
+  },
+  {
+   "id": "357563541",
+   "categoria": "rincones",
+   "alt": "Rellano de la escalera con una butaca y un cuadro",
+   "w": 608,
+   "h": 1080,
+   "anchos": [
+    480,
+    608
+   ]
+  },
+  {
+   "id": "357563551",
+   "categoria": "rincones",
+   "alt": "Butaca con manta gris en lo alto de la escalera",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "357563301",
+   "categoria": "rincones",
+   "alt": "Rincón del pasillo con pared fucsia, una figura en la repisa y una puerta abierta",
+   "w": 756,
+   "h": 1080,
+   "anchos": [
+    480,
+    756
+   ]
+  },
+  {
+   "id": "357563534",
+   "categoria": "rincones",
+   "alt": "Puerta con reja que da a la zona del lavadero",
+   "w": 608,
+   "h": 1080,
+   "anchos": [
+    480,
+    608
+   ]
+  },
+  {
+   "id": "435501986",
+   "categoria": "rincones",
+   "alt": "Toalla bordada con el logo de Casa María junto al lavabo",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "357563576",
+   "categoria": "rincones",
+   "alt": "Cartel pintado: «En esta casa lo hacemos todo con mucho amor»",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "899046343",
+   "categoria": "rincones",
+   "alt": "Letrero de forja «Bienvenidos» sobre un zócalo de azulejo con geranios",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "548077884",
+   "categoria": "rincones",
+   "alt": "Estantería verde con macetas de flores y una pizarra con «Casa María»",
+   "w": 608,
+   "h": 1080,
+   "anchos": [
+    480,
+    608
+   ]
+  },
+  {
+   "id": "357563361",
+   "categoria": "rincones",
+   "alt": "Espejo de marco dorado con un jarrón de flores lilas",
+   "w": 1080,
+   "h": 1080,
+   "anchos": [
+    480,
+    960
+   ]
+  },
+  {
+   "id": "378907447",
+   "categoria": "rincones",
+   "alt": "Marco con la frase «Cuando crees en ti todo es posible» y dos macetas",
+   "w": 1712,
+   "h": 953,
+   "anchos": [
+    480,
+    960,
+    1440
+   ]
+  },
+  {
+   "id": "899033611",
+   "categoria": "rincones",
+   "alt": "Lámpara y figura de corazones sobre una mesilla oscura",
+   "w": 810,
+   "h": 1080,
+   "anchos": [
+    480,
+    810
+   ]
+  },
+  {
+   "id": "357563539",
+   "categoria": "rincones",
+   "alt": "Parque infantil con columpios entre árboles, a 15 metros de la casa",
+   "w": 1243,
+   "h": 1080,
+   "anchos": [
+    480,
+    960,
+    1243
+   ]
+  }
+ ]
+}

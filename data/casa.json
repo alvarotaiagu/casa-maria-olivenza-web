@@ -1,0 +1,75 @@
+{
+  "provisional": true,
+  "aviso": "Distribución provisional: pendiente de María",
+  "nota": "La «casa abierta» se pinta desde aquí. Para mover una estancia de planta basta con cambiar su «planta» (alta, baja o patio); el corte se reparte solo. «peso» es el ancho relativo dentro de su planta; «orden» es el turno en que se enciende al bajar. Las camas: Booking dice dos dormitorios con cama doble grande y uno con cama doble, sin decir cuál es cuál; por eso aquí todas dicen «cama doble».",
+  "plantas": [
+    { "id": "alta", "nombre": "Planta de arriba" },
+    { "id": "baja", "nombre": "Planta baja" },
+    { "id": "patio", "nombre": "Patio" }
+  ],
+  "estancias": [
+    {
+      "id": "dormitorio-1", "nombre": "Dormitorio 1", "corto": "Dorm. 1", "planta": "alta", "peso": 1.15, "orden": 6,
+      "resumen": "Cabecero tapizado y ventana a la zona verde.",
+      "equipamiento": ["Cama doble", "Aire acondicionado y calefacción", "Ropa de cama y toallas"],
+      "portada": "410990634",
+      "fotos": ["410990634", "357563328", "357563249", "378902477", "357563570", "410990980"]
+    },
+    {
+      "id": "dormitorio-2", "nombre": "Dormitorio 2", "corto": "Dorm. 2", "planta": "alta", "peso": 1.15, "orden": 7,
+      "resumen": "Cojines azules, cuadros de ciervos y ventana a la zona verde.",
+      "equipamiento": ["Cama doble", "Aire acondicionado y calefacción", "Ropa de cama y toallas"],
+      "portada": "410990395",
+      "fotos": ["357563346", "410990395", "899047312", "357563596", "378903370", "548079035"]
+    },
+    {
+      "id": "jacuzzi", "nombre": "Baño con jacuzzi", "corto": "Jacuzzi", "planta": "alta", "peso": 0.85, "orden": 9,
+      "resumen": "El baño grande, con bañera de hidromasaje.",
+      "equipamiento": ["Bañera de hidromasaje", "Ducha", "Bidé", "Toallas"],
+      "portada": "357563154",
+      "fotos": ["357563154", "357563572", "357563583"]
+    },
+    {
+      "id": "dormitorio-3", "nombre": "Dormitorio 3", "corto": "Dorm. 3", "planta": "alta", "peso": 1.15, "orden": 8,
+      "resumen": "Cabecero de madera clara y cuadro de abanico.",
+      "equipamiento": ["Cama doble", "Aire acondicionado y calefacción", "Ropa de cama y toallas"],
+      "portada": "435499928",
+      "fotos": ["435499928", "435500105", "435499875", "899044087", "548079039", "548079030", "899034639"]
+    },
+    {
+      "id": "entrada", "nombre": "Entrada y escalera", "corto": "Entrada", "planta": "baja", "peso": 0.8, "orden": 1,
+      "resumen": "Se entra por aquí; la escalera sube a la planta de arriba.",
+      "equipamiento": ["Escalera a la planta de arriba", "Aparcamiento en la puerta"],
+      "portada": "378904331",
+      "fotos": ["378904331", "475998397", "899158561", "357563541"]
+    },
+    {
+      "id": "salon", "nombre": "Salón y comedor", "corto": "Salón", "planta": "baja", "peso": 1.5, "orden": 2,
+      "resumen": "Sofá, dos butacas de terciopelo verde y la mesa del comedor.",
+      "equipamiento": ["Sofá y butacas", "Mesa de comedor", "Aire acondicionado y calefacción", "Wifi gratis"],
+      "portada": "899036465",
+      "fotos": ["899036465", "548077336", "548079031", "537286099", "899157921", "548079037", "410990884"]
+    },
+    {
+      "id": "cocina", "nombre": "Cocina", "corto": "Cocina", "planta": "baja", "peso": 1.1, "orden": 3,
+      "resumen": "Cocina completa, con un rincón para el café.",
+      "equipamiento": ["Nevera", "Cafetera de cápsulas", "Microondas", "Placa", "Tostadora"],
+      "portada": "899038341",
+      "fotos": ["899038341", "357563238", "899033085", "899158285"]
+    },
+    {
+      "id": "bano", "nombre": "Baño", "corto": "Baño", "planta": "baja", "peso": 0.75, "orden": 4,
+      "resumen": "El segundo baño, con ducha y bidé.",
+      "equipamiento": ["Ducha", "Bidé", "Toallas"],
+      "portada": "357563257",
+      "fotos": ["357563257", "357563452", "410990757", "899157675"]
+    },
+    {
+      "id": "patio", "nombre": "Patio", "corto": "Patio", "planta": "patio", "peso": 1, "orden": 5,
+      "resumen": "Césped, banco, mesa para comer fuera y jardín vertical.",
+      "equipamiento": ["Mesa y sillas", "Banco", "Toldo", "Jardín vertical"],
+      "portada": "899032438",
+      "fotos": ["899032438", "899048920", "899035420", "899031531", "376602576"]
+    }
+  ]
+}
