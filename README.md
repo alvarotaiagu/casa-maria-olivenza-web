@@ -2,7 +2,7 @@
 
 Web para **Casa María**, una casa entera de alquiler turístico en C/ La Higuera, 13 · 06100 Olivenza (Badajoz). Tiene licencia **AT-BA-00178**, que corresponde a un apartamento turístico. **No es una casa rural** y la web no lo dice en ningún sitio: `verificar.mjs` falla si aparece «casa rural» o «turismo rural».
 
-**Estado:** terminada en local el 2 de octubre de 2026 y **sin publicar**.
+**Estado:** terminada el 2 de octubre de 2026 y publicada ese mismo día en GitHub Pages: https://alvarotaiagu.github.io/casa-maria-olivenza-web/ (repo público `alvarotaiagu/casa-maria-olivenza-web`). No está en Rúa.
 - Lleva `noindex, nofollow` en todas las páginas.
 - Lleva el mando de dos versiones, que solo se enseña con `?revision` en la URL.
 - Antes de entregarla, sigue la sección «Quitar el mando de maqueta».
